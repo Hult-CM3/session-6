@@ -30,3 +30,4 @@ shift =
 # TODO-6: Create a way for the user to continue or not HINT: Use a loop!
 
 # Extra Challenge TODO-7: Can you import the logo from logo.py and print it out at the beginning of the program?
+  ## Create your own ASCII art here: https://www.asciiart.eu/text-to-ascii-art 
