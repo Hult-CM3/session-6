@@ -1,4 +1,4 @@
-# you must run "pip install bcrypt" in youur terminal before this will work
+# you might need to run "pip install bcrypt" in your terminal before this will work
 import bcrypt
 
 password = input("please enter a pasword: ").encode()
